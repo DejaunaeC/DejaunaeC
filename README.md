@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 - 🌱 I’m learning **React** and **Flutter** for web and mobile development.  
-- 🎯 My goal is to specialize in **artificial intelligence** and **cybersecurity**.  
-- 💡 I thrive on **collaborative projects**, **coding challenges**, and continuously expanding my skillset.  
+- 🎯 My goal is to create innovative and impactful web applications. 
+- 💡 I thrive on **continuously expanding my skillset.**
 
 📫 **Reach me at**: [dejaunaeclue@gmail.com](mailto:dejaunaeclue@gmail.com)  
 🌐 **Connect with me on LinkedIn**: [linkedin.com/in/dejaunae-clue](https://www.linkedin.com/in/dejaunae-clue)  

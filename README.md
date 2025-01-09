@@ -48,9 +48,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=DejaunaeC&show_icons=true&theme=radical" alt="Dejaunae's GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DejaunaeC&theme=radical" alt="Dejaunae's Streak Stats" />
-    </td>
   </tr>
 </table>
 

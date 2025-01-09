@@ -1,13 +1,69 @@
-# Hi there! 👋 I'm Dejaunae Clue 
+# Hi there! 👋 I'm Dejaunae Clue
 
-👨‍🎓 Second-year Computer Science student at University of Technology, Jamaica 
+👨‍🎓 **Second-Year Computer Science Student** at University of Technology, Jamaica  
+🔍 **Passionate about software development, problem-solving, and creating impactful solutions**  
+💻 **Currently exploring** web development, mobile app development, and full-stack programming.  
 
-🔭 I’m currently working on sharpening my problem-solving skills through coding challenges and personal projects.
+---
 
-📚 I'm eager to learn more about web and software development.
+## 🚀 About Me
 
-💡 I'm interested in fields such as artificial intelligence and cybersecurity.
+- 🌱 I’m learning **React** and **Flutter** for web and mobile development.  
+- 🎯 My goal is to specialize in **artificial intelligence** and **cybersecurity**.  
+- 💡 I thrive on **collaborative projects**, **coding challenges**, and continuously expanding my skillset.  
 
-📫 You can reach me at dejaunaeclue@gmail.com
+📫 **Reach me at**: [dejaunaeclue@gmail.com](mailto:dejaunaeclue@gmail.com)  
+🌐 **Connect with me on LinkedIn**: [linkedin.com/in/dejaunae-clue](https://www.linkedin.com/in/dejaunae-clue)  
 
-🌐 Connect with me on LinkedIn (https://www.linkedin.com/in/dejaunae-clue) 
+---
+
+## 🛠️ Tech Stack  
+
+### **Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Web Development**
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌟 My GitHub Stats  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DejaunaeC&show_icons=true&theme=radical" alt="Dejaunae's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DejaunaeC&theme=radical" alt="Dejaunae's Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✨ Featured Projects  
+
+- **[Portfolio Website](https://github.com/DejaunaeC/portfolio-website):** A personal website showcasing my skills, projects, and achievements.  
+- **[TIOCS System](https://github.com/DejaunaeC/TIOCS):** A traffic offense and ticketing system developed in C++ as part of my academic project.  
+- 
+
+---
+
+### 📊 Let's Connect and Collaborate!  
+I'm always open to connecting with other developers and collaborating on exciting projects. Feel free to reach out via email or LinkedIn!  
+

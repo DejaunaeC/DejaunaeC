@@ -1,16 +1,10 @@
 # Hi there! 👋 I'm Dejaunae Clue
 
-👨‍🎓 **Second-Year Computer Science Student** at University of Technology, Jamaica  
+👨‍🎓 **Third Year Computer Science Student** at University of Technology, Jamaica  
 🔍 **Passionate about software development, problem-solving, and creating impactful solutions**  
-💻 **Currently exploring** web development, mobile app development, and full-stack programming.  
+💻 **Currently exploring** web development. 
 
 ---
-
-## 🚀 About Me
-
-- 🌱 I’m learning **React** and **Flutter** for web and mobile development.  
-- 🎯 My goal is to create innovative and impactful web applications. 
-- 💡 I thrive on **continuously expanding my skillset.**
 
 📫 **Reach me at**: [dejaunaeclue@gmail.com](mailto:dejaunaeclue@gmail.com)  
 🌐 **Connect with me on LinkedIn**: [linkedin.com/in/dejaunae-clue](https://www.linkedin.com/in/dejaunae-clue)  
@@ -31,9 +25,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)

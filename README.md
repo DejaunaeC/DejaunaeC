@@ -47,7 +47,7 @@
 ## ✨ Featured Projects  
 
 - **[Portfolio Website](https://github.com/DejaunaeC/portfolio-website):** A personal website showcasing my skills, projects, and achievements.  
-- **[TIOCS System](https://github.com/DejaunaeC/TIOCS):** A traffic offense and ticketing system developed in C++ as part of my academic project.  
+-   
 - 
 
 ---

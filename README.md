@@ -34,7 +34,8 @@
 
 ## 🌟 My GitHub Stats
 
-![Dejaunae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DejaunaeC&show_icons=true&theme=radical)
+![Metrics](https://metrics.lecoq.io/DejaunaeC)
+
 
 ---
 

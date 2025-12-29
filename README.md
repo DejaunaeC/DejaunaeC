@@ -34,7 +34,7 @@
 
 ## 🌟 My GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/DejaunaeC)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DejaunaeC&theme=dracula)](https://git.io/streak-stats)
 
 
 ---

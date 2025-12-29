@@ -34,8 +34,7 @@
 
 ## 🌟 My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DejaunaeC&theme=dracula)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DejaunaeC&theme=dracula" alt="GitHub Streak" /></a>
 
 ---
 
